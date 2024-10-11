@@ -183,7 +183,7 @@ ggplot(temperature_data, aes(x = day, y = temperature)) +
 
 ## Additional Resources
 
-- [R basics](https://www.datacamp.com/courses/tech:r](https://www.w3schools.com/r/default.asp) — Interactive tutorials and exercises for learning R.
+- [R basics](https://www.w3schools.com/r/default.asp) — Interactive tutorials and exercises for learning R.
 - [R for Data Science](https://r4ds.had.co.nz/) — A comprehensive book to learn data science with R.
 - [ggplot2 Documentation](https://ggplot2.tidyverse.org/) — Official documentation for the ggplot2 package.
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) — Useful cheat sheets for R programming, ggplot2, and more.
